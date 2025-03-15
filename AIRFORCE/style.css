@@ -1,0 +1,25 @@
+html{border:double;
+border-width:7px;
+margin:auto;
+border-color:#000001}
+html {
+  background-image: linear-gradient(
+    to right bottom,
+    #add8e6,
+    #a8c6d5,
+    #a3b4c3,
+    #9ba3af,
+    #91939a,
+    #95969b,
+    #99999b,
+    #9c9c9c,
+    #b2b2b2,
+    #c8c8c8,
+    #dedede,
+    #f5f5f5
+  );background-repeat:no-repeat;
+  overflow: visible;
+  text-overflow: ellipsis;
+}
+img{border:double;
+border-width:5px;}

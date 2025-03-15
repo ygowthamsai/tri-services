@@ -1,0 +1,29 @@
+html {
+  border: double;
+  border-color: rgb(50, 41, 37);
+  border-width: 10px;
+  margin: auto;
+}
+
+body {
+  background-image: linear-gradient(
+    to bottom,
+    #e1750f,
+    #d4982e,
+    #cab558,
+    #c5cd87,
+    #cbe1b6,
+    #c7e4bc,
+    #c4e8c3,
+    #c1ebca,
+    #a3e2b0,
+    #85d996,
+    #64cf7a,
+    #3dc55e
+  );
+  overflow: visible;
+  text-overflow: ellipsis;
+}
+img{border:double;
+border-color:#122a83 ;
+border-width:5px;}
